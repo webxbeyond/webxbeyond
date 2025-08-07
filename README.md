@@ -1,6 +1,10 @@
 # 👋 Hello, I'm WebX Beyond!
 
 <div align="center">
+  <img src="https://github.com/webxbeyond.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #36BCF7; box-shadow: 0 4px 14px rgba(54, 188, 247, 0.3);" alt="WebX Beyond Avatar" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
@@ -108,17 +112,3 @@ I'm a passionate **Full Stack Developer** who loves creating innovative web solu
 <div align="center">
   <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
-<!--
-**webxbeyond/webxbeyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
